@@ -1,6 +1,6 @@
 import './App.css';
-import Setup from './tutorial/1-useState/setup/5-useState-counter';
-//  import Final from './tutorial/1-useState/final/5-useState-counter';
+import Setup from './tutorial/2-useEffect/setup/3-useEffect-fetch-data';
+//  import Final from './tutorial/2-useEffect/final/3-useEffect-fetch-data';
 
 function App() {
   return (
